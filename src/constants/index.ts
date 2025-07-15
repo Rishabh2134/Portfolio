@@ -140,7 +140,7 @@ const projects: TProject[] = [
       { name: "RAG", color: "pink-text-gradient" },
     ],
     image: thumbnail, // Replace with actual project image
-    sourceCodeLink: "https://github.com/Rishabh2134/Terraform-RAG-AI-Assistant",
+    sourceCodeLink: "https://github.com/Rishabh2134/terraform-rag-model",
   },
 ];
 
