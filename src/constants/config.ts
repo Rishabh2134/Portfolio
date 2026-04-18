@@ -73,7 +73,7 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I am a DevOps and Cloud Engineer with over 3 years of experience, currently working at Barclays. I specialize in automating infrastructure using tools like Terraform, Jenkins, Docker, and Kubernetes. My work has resulted in reducing deployment time by 25% and cutting cloud costs by 30%. I’m passionate about building scalable cloud-native solutions, monitoring production environments, and optimizing performance.`,
+      content: `I am a DevOps and Cloud Engineer with over 3 years of experience, currently working at Syensqo. I specialize in automating cloud infrastructure using tools like Terraform, Jenkins, Docker, and Kubernetes. I have built AWS infrastructure from scratch, managed CI/CD pipelines, and implemented enterprise-level RBAC and identity governance. My work has resulted in reducing deployment time by 25% and optimizing cloud costs significantly. I’m passionate about building scalable cloud-native solutions, monitoring production environments, and improving system performance and reliability.`,
     },
     experience: {
       p: "What I have done so far",
