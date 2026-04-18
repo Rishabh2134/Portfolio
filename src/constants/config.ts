@@ -47,8 +47,8 @@ export const config: TConfig = {
   hero: {
     name: "Rishabh Sharma",
     p: [
-      "I build cloud-native infrastructure, CI/CD pipelines, and cost-optimized DevOps systems.",
-      // "Skilled in AWS, Jenkins, Kubernetes, Docker, Terraform, and monitoring tools like Kibana & CloudWatch."
+      "DevOps & Cloud Engineer",
+      "Building scalable cloud systems, automating CI/CD, and developing AI-powered infrastructure tools.",
     ],
   },
   contact: {
