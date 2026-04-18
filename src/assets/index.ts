@@ -26,6 +26,7 @@ import kibana from "./tech/kibana.png";
 
 import barclays from "./company/barclays.png";
 import whizlabs from "./company/whizlabs.png";
+import syensqo from "./company/syensqo.png";
 
 import thumbnail from "./Thumbnail.png";
 import jobit from "./jobit.png";
@@ -61,4 +62,5 @@ export {
   whizlabs,
   jobit,
   tripguide,
+  syensqo,
 };

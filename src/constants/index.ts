@@ -20,6 +20,7 @@ import {
   barclays,
   whizlabs,
   thumbnail,
+  syensqo,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -99,11 +100,25 @@ const technologies: TTechnology[] = [
 
 const experiences: TExperience[] = [
   {
+    title: "Cloud & DevOps Engineer",
+    companyName: "Syensqo",
+    icon: syensqo,
+    iconBg: "#E6DEDD",
+    date: "November 2025 – Present",
+    points: [
+      "Architected and provisioned AWS infrastructure from scratch using Terraform, developing reusable modules to ensure scalable, consistent, and version-controlled deployments across environments.",
+      "Built and maintained GitLab CI/CD pipelines to automate Terraform and application deployments across Test and Production environments, with approval gates to ensure safe production rollouts. ",
+      "Managed end-to-end cloud operations for production workloads on AWS, overseeing uptime, patch management, and incident response to ensure high availability and SLA adherence.  ",
+      "Architected and administered Role-Based Access Control (RBAC) across the organization’s AWS ecosystem and integrated platforms, enforcing least-privilege principles at enterprise scale. ",
+      "Leading enterprise migration from AWS IAM Identity Center to Azure MyID, ensuring seamless SSO continuity and cross-platform identity federation during the transition. ",
+    ],
+  },
+  {
     title: "DevOps Engineer",
     companyName: "Barclays",
     icon: barclays,
     iconBg: "#383E56",
-    date: "July 2023 – Present",
+    date: "July 2023 – October 2025",
     points: [
       "Built CI/CD pipelines using Jenkins and Chef, reducing deployment time by 25%.",
       "Automated AWS provisioning using CloudFormation and Terraform, achieving 99.99% uptime.",
